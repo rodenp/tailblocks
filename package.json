@@ -1,8 +1,8 @@
 {
   "name": "@rodenp/tailblocks",
   "homepage": "https://tailblocks.cc",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.2",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -38,6 +38,8 @@
     ]
   },
   "devDependencies": {
+    "@wixc3/codux-librarian": "^0.3.1",
+    "@wixc3/react-board": "^2.5.0",
     "gh-pages": "^2.2.0"
   }
 }

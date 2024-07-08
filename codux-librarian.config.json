@@ -1,0 +1,8 @@
+    {
+        "buildDir": "package",
+        "boardsPath": "src/_codux/boards",
+        "libraryName": "Tailblocks",
+        "libraryIcon": "src/assets/tailblocks.png",
+        "packageName": "@rodenp/tailblocks",
+        "packageVersion": "0.1.0"
+    }
